@@ -109,6 +109,24 @@ A **modern, full-featured data analytics dashboard** that transforms raw busines
 | **Fonts** | Plus Jakarta Sans (Google Fonts) |
 | **Deployment** | GitHub Pages |
 
+### 🗣️ Languages Used
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="JSX"/>
+  <img src="https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+</p>
+
+| Language | Usage |
+|----------|-------|
+| **JavaScript (ES6+)** | Core application logic, React components, data processing, chart configurations |
+| **JSX** | React component templates combining HTML structure with JavaScript logic |
+| **HTML5** | Semantic page structure, entry point (`index.html`), meta tags & SEO |
+| **CSS3** | Custom styling, Tailwind utility classes, glassmorphism effects, animations |
+| **JSON** | Package configuration, dependency management, sample datasets |
+
 ---
 
 ## 📁 Project Structure
