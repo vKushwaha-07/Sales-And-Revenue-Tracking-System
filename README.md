@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="80" alt="logo"/>
 </p>
 
-<h1 align="center">📊 Sales Revenue Tracking System>
+<h1 align="center">📊 Sales Revenue Tracking System
 
 <p align="center">
   <b>An enterprise-grade, interactive data analytics platform built with React & Recharts</b>
